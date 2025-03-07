@@ -9,7 +9,6 @@ function love.conf(t)
     -- * Make sure user settings for the actual engine is not loaded;
     -- * Make sure the name and icon of the game is correctly presented during startup.
     --   (We can only automatically adjust window branding when loading finishes.)
-    -- Test
 
     local major, minor, revision, codename = love.getVersion()
 
