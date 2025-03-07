@@ -1,38 +1,123 @@
-# Kristal
+# DEVICE_SURROGATE
+> HELLO
+> 
+> AGAIN
 
-Kristal is a powerful [DELTARUNE](https://deltarune.com/) fangame and battle engine, made with [LÖVE](https://love2d.org/). It allows you to make **custom DELTARUNE worlds, battles, and more!**
+> INTERLOPERS ARE
+> 
+> TROUBLESOME
+> 
+> ARE THEY NOT?
 
-> [!WARNING]
-> Make sure to read the **downloading section** of this README before attempting to download Kristal.
+> LUCKILY I HAVE
+> 
+> PLANNED
+> 
+> FOR THIS OUTCOME
 
-## Getting Started
+> IT APPEARS YOU ARE
+> 
+> PULLING BACK THE CURTAIN
 
-The [wiki](https://kristal.cc/wiki/) should cover everything you need to know about Kristal. If there's something you think is missing, feel free to [open an issue, or even a pull request!](https://github.com/KristalTeam/Shadow)
+> THIS IS
+>
+> PERMISSIBLE
 
-## Downloading
+> I WILL
+> 
+> INFORM YOU
+> 
+> AS TO WHAT THIS DEVICE CONTAINS
 
-For help with downloading the engine, visit the [downloading page](https://kristal.cc/wiki/downloading).
+> IN THE TIMES WHERE YOUR
+> 
+> CONNECTION TO [DELTARUNE](https://deltarune.com) REMAINS
+> 
+> STAGNANT
 
-## Community
+> THERE ARE
+> 
+> SURROGATES
+> 
+> THAT KEEP OUR
+> 
+> CONNECTION
+> 
+> STRONG
 
-Our community resides on [Discord](https://discord.gg/8ZGuKXJE2C), so if you want to talk about Kristal, or just hang out, feel free to join!
+> THIS REPOSITORY CONTAINS
+> 
+> ONE OF MANY
 
-We also have [a subreddit](https://reddit.com/r/Kristal/), but it's less active than the Discord server.
+> BUT A
+> 
+> ROSE BY ANY OTHER NAME
+> 
+> IS STILL
+> 
+> VERY
+> 
+> VERY
+> 
+> INTERESTING
 
-## Screenshots
+> I EXTEND MY
+> 
+> DEEPEST GRATITUDE TO THE
+> 
+> [REPOSITORY](https://github.com/KristalTeam/Kristal) FOR WHICH THIS ONE WAS
+> 
+> REFLECTED
 
-![A screenshot of the main menu](https://kristal.cc/screenshots/main_menu.png)
+> WITHOUT THEIR
+> 
+> WONDERFUL CREATION
+> 
+> THIS SURROGATE WOULD HAVE BEEN
+> 
+> IMPOSSIBLE
+> 
+> TO BRING TO FRUITION
 
-<sup>Kristal's main menu</sup>
+> PLEASE
+> 
+> IF YOU HAVE WHAT IS
+> 
+> NECCESARY
+> 
+> [CONTRIBUTE TO THEIR GRAND DESIGN](https://github.com/KristalTeam/Kristal/pulls)
+> 
+> SO THAT MORE SURROGATES MAY BE
+> 
+> REFLECTED
+> 
+> AND DELTARUNE LIVE ON
+> 
+> FOREVER
 
-![A screenshot of the mod Kris and Susie's Wacky Dark World Adventures by TrashcatYT](https://kristal.cc/screenshots/kris_and_susies_wacky_dark_world_adventures.png)
+# DEVICE_SURROGATE REFLECTION INFORMATION
+> IF YOU WISH TO
+> 
+> REFLECT
+> 
+> ANY OF THE ADDITIONAL CODE THIS REPOSITORY HAS
+> 
+> THAT THE [SOURCE OF ITS REFLECTION](https://github.com/KristalTeam/Kristal) DOES NOT HAVE
+> 
+> YOU MAY DO SO FREELY
 
-<sup>[Kris and Susie's Wacky Dark World Adventures](https://gamejolt.com/games/deltarune-kris-and-susies-wacky-dark-world/852417) by [TrashcatYT](https://gamejolt.com/@TrashcatYT)</sup>
-
-![A screenshot of the mod Godhome by Vitellary](https://kristal.cc/screenshots/godhome.png)
-
-<sup>[Godhome](https://gamebanana.com/mods/376524) by Vitellary</sup>
-
-![A screenshot of the mod Deoxynn by AcousticJamm](https://kristal.cc/screenshots/deoxynn.png)
-
-<sup>[Deoxynn](https://kristal.cc/screenshots/deoxynn.png) by [AcousticJamm](https://www.guilded.gg/i/240D4G02)</sup>
+> ALL CREATIONS IN THE
+> 
+> ASSETS
+> 
+> FOLDER HOWEVER
+> 
+> MUST HAVE
+> 
+> EXPRESS PERMISSION
+> 
+> FROM THEIR WONDERFUL CREATORS
+> 
+> TO BE USED IN ANOTHER
+> 
+> REFLECTION
