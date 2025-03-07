@@ -8,9 +8,9 @@ from pe_tools import parse_pe, IMAGE_DIRECTORY_ENTRY_RESOURCE
 from pe_tools.rsrc import parse_pe_resources, pe_resources_prepack, parse_prelink_resources, KnownResourceTypes
 from pe_tools.version_info import parse_version_info, VersionInfo
 
-ver_str = "0.1.0"
-windows_ver = "0, 1, 0, 0"
-file_description = "Leading Brand DELTARUNE-type Software"
+ver_str = "0.6.6.7"
+windows_ver = "0, 6, 6, 7"
+file_description = "DEVICE_SURROGATE"
 
 # Contains code from https://github.com/avast/pe_tools/blob/master/pe_tools/peresed.py
 
