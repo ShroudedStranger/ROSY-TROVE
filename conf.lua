@@ -13,8 +13,7 @@ function love.conf(t)
 
     local major, minor, revision, codename = love.getVersion()
 
-    t.identity = "rosytrove"
-    -- TODO: hmm
+    t.identity = "ROSY-TROVE"
     t.version = "11.0"
 
     t.window.title = "ROSY-TROVE"
