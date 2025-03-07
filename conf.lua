@@ -13,11 +13,11 @@ function love.conf(t)
 
     local major, minor, revision, codename = love.getVersion()
 
-    t.identity = "kristal"
+    t.identity = "rosytrove"
     -- TODO: hmm
     t.version = "11.0"
 
-    t.window.title = "Kristal"
+    t.window.title = "ROSY-TROVE"
     t.window.icon = "icon.png"
     t.window.width = 640
     t.window.height = 480
