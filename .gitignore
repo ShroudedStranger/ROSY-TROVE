@@ -1,11 +1,12 @@
 .vscode/
 
+RUN.bat
+
 mods/*
-!mods/_light/
-!mods/_testmod/
-!mods/example/
-!mods/previewtest/
-!mods/z/
+!mods/ROSY-TROVE/
+mods/ROSY-TROVE/libraries
+
+*.xcf
 
 build/
 output/
