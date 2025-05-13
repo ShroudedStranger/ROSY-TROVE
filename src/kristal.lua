@@ -258,8 +258,8 @@ function love.load(args)
 
         local screenshot_size = Utils.lerp(20, 0, SCREENSHOT_DISPLAY)
         if screenshot_size > 0 and not TAKING_SCREENSHOT then
-            local w = love.graphics.getWidth()
-            local h = love.graphics.getHeight()
+            local w = love.graphics.getWidth() / Kristal.getGameScale()
+            local h = love.graphics.getHeight() / Kristal.getGameScale()
             love.graphics.rectangle("fill", 0, 0, screenshot_size, h)
             love.graphics.rectangle("fill", w - screenshot_size, 0, screenshot_size, h)
             love.graphics.rectangle("fill", 0, 0, w, screenshot_size)
@@ -571,6 +571,8 @@ end
 ---@param  msg string|table     The error message.
 ---@return function|nil handler The error handler, called every frame instead of the main loop.
 function Kristal.errorHandler(msg)
+    love.graphics.setShader()
+
     local copy_color = { 1, 1, 1, 1 }
     local anim_index = 1
     local starwalker_error = (love.math.random(100) <= 5) -- 5% chance for starwalker
@@ -1150,12 +1152,13 @@ end
 ---@param save_id?   number   The id of the save to load the mod from. (1-3)
 ---@param save_name? string   The name to use for the save file.
 ---@param after?     function The function to call after assets have been loaded.
+---@return boolean   success  Whether the mod was loaded successfully.
 function Kristal.loadMod(id, save_id, save_name, after)
     -- Get the mod data (loaded from mod.json)
     local mod = Kristal.Mods.getAndLoadMod(id)
 
     -- No mod found; nothing to load
-    if not mod then return end
+    if not mod then return false end
 
     -- Create the Mod table, which is a global table that
     -- can contain a mod's custom variables and functions
@@ -1214,6 +1217,8 @@ function Kristal.loadMod(id, save_id, save_name, after)
             Gamestate.switch(Kristal.States["Game"], save_id, save_name)
         end
     end)
+
+    return true
 end
 
 --- Loads assets from a mod and its libraries. Called internally by `Kristal.loadMod`.
